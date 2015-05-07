@@ -21,9 +21,14 @@ Rather than relying on human judgment to compare songs, the team used a statisti
 Far from becoming formulaic and homogeneous, as some critics have argued, pop music is as diverse now as it has ever been, the researchers found. And it didn’t evolve gradually. Instead, the analysis revealed several dramatic revolutions. The first was in 1964 during the rise of rock and soul music, when bands such as the Beatles drew huge crowds. The next started in 1983 with disco, new wave, and hard rock. And the most recent, and by far the most transformative, started in 1991 with the explosion in rap and hip hop. As Mauch and his team conclude today in Royal Society Open Science, rap is "the single most important event that has shaped the musical structure of the American charts over the past 50 years." Its powerful influence on the structure of pop music continues today; the occasional rap interlude now finds its way into many a rock song, for example.
 
 ----
+正如一些评论家讨论的，一些研究者发现，远未成为公式化的，均匀的，流行音乐如今比以往任何时候都多样。它不是逐渐地进化。相反，分析揭露了一些戏剧性的革命。第一次是1964年摇滚和黑人乐崛起，当时的乐队比例披头士合唱（摇滚乐队）吸引了大批的观众。接着是1983年迪斯科，新浪潮和重摇滚的出现。近年来，最近为止最有革命性的是1991年出现的说唱和嘻哈文化的爆发。正如Mauch和他的团队总结的那样，现在在皇家学会开放科学中，说唱是“过去50年中形成美国排行榜音乐结构的最重要的一次事件”。它在流行音乐结构上的强大影响延续至今，比如，许多摇滚歌曲中都穿插着说唱的形式。
+
+----
 "This is rigorous," says Jean-Baptiste Michel, a data scientist at Harvard University and Palantir Technologies, which is headquartered in Palo Alto, California, who was lead author of a 2010 Science paper that kicked off the study of culture through massive data sets. "More researchers need to take this approach." One of the findings that stands out, he says, is that pop music shows a pattern from biological evolution known as punctuated equilibrium, in which periods of gradual change are separated by explosions of complexity. The most famous example in geological history is the Cambrian explosion, a sudden, massive increase in biodiversity in the fossil record 542 million years ago. "There are differences, of course," he says, "since biological evolution has the direct parent-offspring relationship, and we don't know the mechanisms even in biology. So we have to be careful."
 
 ----
+Jean-Baptiste Michel，一个哈佛大学和palantir科技（在帕洛阿尔托设立总部）的数据科学家，他是2010年科技论文kicked off the study of culture through massive data sets的首席作者,他指出：“这是严格的，更多的研究者需要采用这样的方法”。其中的一个发现表明流行音乐显示出了一种著名的间断均衡的生物进化的模式，渐变的阶段被爆炸的复杂性分割。在地质历史上最著名的例子便是寒武纪大爆发，542万年前化石记录中的一次生物多样性突然地，密集地增长。Jean-Baptiste Michel说，“当然他们之间存在区别，因为生物进化有直接的亲子间的关系，而我们甚至并不知道他们在生物学中的原理。因此，我们必须要小心谨慎”。
+
 Posted in Social Sciences
 
 Science| DOI: 10.1126/science.aac4554
