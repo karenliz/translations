@@ -1,7 +1,8 @@
 从James Taylor到Taylor Swift：像生物有机体般变迁的音乐
 ----
-By **John Bohannon** Translated by [karenliz](https://github.com/karenliz)
-*5 May 2015 7:15 pm*
+ * By **John Bohannon** 
+ * Translated by [karenliz](https://github.com/karenliz)
+ * 5 May 2015 7:15 pm*
 
 ----
 在90年代早期，说唱音乐占据着整个广播：到处都在播放snoopy Dogg和Jay Z的歌。这到底是音乐的革命还是仅仅是人们对音乐的品味随时间变化的结果？由于最大的基于数据驱动流行音乐研究正在开展，研究着现在可以回答这些问题了。将进化理论应用到这些数据，他们说，可以解决一些横行流行音乐十几年的论题。
