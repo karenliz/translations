@@ -18,10 +18,19 @@ Among art forms, music seems particularly well suited to data-driven analysis. A
 To solve the sampling problem, a team led by Matthias Mauch, a computer scientist at the Queen Mary University of London, turned to the U.S. Billboard Hot 100, the American music industry's weekly list of popular singles. The researchers scraped data from the Billboard website, collecting the titles and artists for some 17,000 songs that made the list between 1960 and 2010.
 
 ----
+为了解决抽样问题，由Queen Mary University of London 计算机科学家Matthias Mauch领导的团队，求助于美国的billboard Hot 100，一个美国的音乐届每周最火音乐清单。研究者从Billboard网站上抓取数据，收集从1960年到2010年的大约17000首歌的歌名和演唱者。
+
+----
 Getting the actual song recordings was the trickier problem. Luckily, Mauch used to work at the British online music recommendation service Last.fm, and he knew the company had a vast database of 30-second music samples that it used to preview its wares. Those samples turned out to be large enough to power a massive comparative analysis.
 
 ----
+获取真实的歌曲是更难的问题。幸运的是，Mauch曾经在英国在线音乐推荐机构Last.fm工作，他知道这家公司有大量歌曲用于预览的30秒钟样本的数据库。这些样本对于提供庞大的分析比较是足够大的。
+
+----
 Rather than relying on human judgment to compare songs, the team used a statistical technique that extracts features of the recordings like timbre and harmony before grouping them into clusters. To make sure the clusters were meaningful, the researchers compared them with groups of songs created by Last.fm’s millions of users. For example, users put songs by Snoop Dogg, Ludacris, and Jay Z together in the “rap and hip hop” category. But using just the timbre and harmony features, the computer clustered them into nearly identical groups. Encouraged by the similarity, the team then analyzed these massive data with an evolutionary analysis, treating the statistical traits shared among songs like biological traits.
+
+----
+语气依赖人工判断来比较歌，团队使用了一种统计技术，在分组成集群之前提取出歌曲的特征如音色和和旋。为了确保每个集群有意义，研究者将这些组合Last.fm上百万用户分的组进行比较。比如，用户将Snoop Dogg, Ludacris和Jay Z的歌都放在“说唱和嘻哈”这个目录下。但是仅仅只用音色和和旋作为特征，电脑将他们聚类成差不多相似的组群。受相似性的启发，团队接下来用一种进化方法来分析这些大数据，像对待生物特征一样对待这些歌之间的统计特征。
 
 ----
 Far from becoming formulaic and homogeneous, as some critics have argued, pop music is as diverse now as it has ever been, the researchers found. And it didn’t evolve gradually. Instead, the analysis revealed several dramatic revolutions. The first was in 1964 during the rise of rock and soul music, when bands such as the Beatles drew huge crowds. The next started in 1983 with disco, new wave, and hard rock. And the most recent, and by far the most transformative, started in 1991 with the explosion in rap and hip hop. As Mauch and his team conclude today in Royal Society Open Science, rap is "the single most important event that has shaped the musical structure of the American charts over the past 50 years." Its powerful influence on the structure of pop music continues today; the occasional rap interlude now finds its way into many a rock song, for example.
